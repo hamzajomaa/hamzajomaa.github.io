@@ -1,0 +1,28 @@
+#hero {
+    background-image: url("../images/couple/WMP09382\ copy.jpg")
+}
+
+#the-wedding-event {
+    background-image: url("../images/couple/WMP09402\ copy.jpg")
+}
+
+#proposed {
+    background-image: url("../images/couple/WMP09402\ copy.jpg")
+}
+
+#wedding-gifts {
+    background-image: url("../images/bg-wedding-gifts.jpg")
+}
+
+footer {
+    background-image: url("../images/couple/WMP09402 copy.jpg");
+    background-position: 0 55% !important; 
+}
+
+
+
+.InvitationCard{
+    width: 100%;
+}
+
+/*# sourceMappingURL=custom.min.css.map */

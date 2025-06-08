@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//YourOrganization//YourProduct//EN
+BEGIN:VEVENT
+UID:23f338fc-00e9-42d6-bb69-abe91d4e290f
+DTSTAMP:20250608T054452Z
+DTSTART:20250802T170000Z
+DTEND:20250802T200000Z
+SUMMARY:Mohamad Ali and Feryal's Wedding
+DESCRIPTION:Join us to celebrate Mohamad Ali and Feryal's wedding!
+LOCATION:https://maps.app.goo.gl/D4g24dvvtP33VshAA
+END:VEVENT
+END:VCALENDAR
