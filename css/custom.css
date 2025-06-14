@@ -19,7 +19,9 @@ footer {
     background-position: 0 55% !important; 
 }
 
-
+#hero .justify-content-center{
+    height: 50vh;
+}
 
 .InvitationCard{
     width: 100%;
